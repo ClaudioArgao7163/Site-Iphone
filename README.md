@@ -1,5 +1,5 @@
 # Site-Iphone
-Site desenvolvido na aula e introdução á Tecnologia Web 
+Site desenvolvido na aula de introdução á Tecnologia Web 
 1° Periodo
 Curso: S.I (Sistema de Informação)
 Instituição: UniRios
